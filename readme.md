@@ -26,11 +26,11 @@
   - [Отправка изменений на сервер](sending_changes.md)
   - [Запрос изменений с сервера](request_for_changes.md)
 - Ветвление
-  - [Создание новой ветки]()
-  - [Переключение между ветками]()
-  - [Слияние веток]()
-  - [Как удалять ветки]()
-- [Настройка .gitignore]()  
+  - [Создание новой ветки](new_branch.md)
+  - [Переключение между ветками](switching_between_branches.md)
+  - [Слияние веток](merging_branches.md)
+  - [Как удалять ветки](deleting-branches.md)
+- [Настройка .gitignore](customization_gitignore.md)  
 
 ---
 *LICENSE: [MIT](license.md)*
